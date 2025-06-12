@@ -16,7 +16,7 @@ st.caption(
 
 # --- Configuration ---
 ASSISTANT_AVATAR = (
-    "assets/chatbot_avatar.png"  # Make sure this image is in the same folder
+    "assets/chatbot_avatar.jpg"  # Make sure this image is in the same folder
 )
 
 
