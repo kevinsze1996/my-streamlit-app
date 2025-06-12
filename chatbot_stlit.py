@@ -15,7 +15,9 @@ st.caption(
 )
 
 # --- Configuration ---
-ASSISTANT_AVATAR = r"C:\Users\kevin.sze\OneDrive - Swerim\Kevin Sze\Utils\My_picture.png"  # Make sure this image is in the same folder
+ASSISTANT_AVATAR = (
+    "assets/chatbot_avatar.png"  # Make sure this image is in the same folder
+)
 
 
 # --- Core Streaming Logic ---
